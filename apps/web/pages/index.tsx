@@ -1,0 +1,1 @@
+\"\"\"Next.js Web Pages\"\"\"\nexport default function Home() {\n  return (\n    <div>\n      <h1>Veritas Grid Dashboard</h1>\n      <p>Identity-first, trust-adaptive, fraud-aware routing</p>\n    </div>\n  )\n}\n
